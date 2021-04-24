@@ -1,0 +1,3 @@
+/home/custom/samples/lenet/build/CMakeFiles/rebuild_cache.dir
+/home/custom/samples/lenet/build/CMakeFiles/mnist.dir
+/home/custom/samples/lenet/build/CMakeFiles/edit_cache.dir

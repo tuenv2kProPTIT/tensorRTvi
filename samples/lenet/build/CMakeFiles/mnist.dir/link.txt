@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/mnist.dir/mnist.cpp.o  -o mnist  -L/usr/local/cuda/lib64 -Wl,-rpath,/usr/local/cuda/lib64 -lnvinfer -lcudart 
